@@ -1,0 +1,7 @@
+shaped=
+    netherCrystal oreDictionary:dustFluix thermalfoundation:material:293
+    -> 2 ae2:material.AnnihilationCore
+
+shaped=
+    certusCrystal oreDictionary:dustFluix thermalfoundation:material:293
+    -> 2 ae2:material.FormationCore

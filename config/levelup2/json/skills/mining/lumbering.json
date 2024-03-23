@@ -1,0 +1,16 @@
+{
+  "levels": [
+    17,
+    19,
+    29,
+    37,
+    47
+  ],
+  "prerequisites": [
+    "levelup:woodcutting"
+  ],
+  "column": 2,
+  "row": 1,
+  "enabled": true,
+  "active": true
+}

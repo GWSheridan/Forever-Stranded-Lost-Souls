@@ -1,0 +1,16 @@
+{
+  "levels": [
+    14,
+    19,
+    31,
+    41,
+    49
+  ],
+  "prerequisites": [
+    "levelup:bowdraw"
+  ],
+  "column": 2,
+  "row": 1,
+  "enabled": true,
+  "active": true
+}

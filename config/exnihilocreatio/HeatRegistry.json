@@ -1,0 +1,9 @@
+{
+  "minecraft:fire": 4,
+  "minecraft:lava": 3,
+  "minecraft:torch": 1,
+  "minecraft:flowing_lava": 3,
+  "bigreactors:blockmetals": 5,
+  "tconstruct:metal:2": 6,
+  "ic2:resource:10": 8
+}

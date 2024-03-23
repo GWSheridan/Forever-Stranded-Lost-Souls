@@ -1,0 +1,15 @@
+press=
+    oredictionary:dustRedstone ae2:material.logic_processor_print ae2:material.silicon_print
+    -> ae2:material.logic_processor
+
+press=
+    oredictionary:dustRedstone ae2:material.calculation_processor_print ae2:material.silicon_print
+    -> ae2:material.calculation_processor
+
+press=
+    oredictionary:dustRedstone ae2:material.engineering_processor_print ae2:material.silicon_print
+    -> ae2:material.engineering_processor
+
+press=
+    appliedenergistics2:material:43 appliedenergistics2:interface ae2:material.silicon_print
+    -> appliedenergistics2:part:440

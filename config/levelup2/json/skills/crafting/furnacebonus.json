@@ -1,0 +1,21 @@
+{
+  "levels": [
+    8,
+    12,
+    15,
+    18,
+    20,
+    27,
+    31,
+    36,
+    41,
+    48
+  ],
+  "prerequisites": [
+    "levelup:furnacespeed"
+  ],
+  "column": 1,
+  "row": 1,
+  "enabled": true,
+  "active": true
+}

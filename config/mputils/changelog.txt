@@ -1,0 +1,1173 @@
+FOREVER STRANDED LOST SOULS VERSIONS CHANGES
+
+Version 1.0.3.15-B3-RC1
+
+Mods Removed
+* EnhancedVisuals
+* WeaponLevels (No longer on CurseForge)
+
+
+Mods Updated
+** Forge-14.23.4.2709
+* AbyssalCraft
+* Advanced Rocketry
+* AromaBackup
+* Astral Sorcery
+* Better Questing
+* Better Questing - Standard Edition
+* Biomes O' Plenty
+* Bonsai Trees
+* Chance Cubes
+* Chisel & Bits
+* Compact Machines 3
+* Cooking For Blockheads
+* Corail Tombstone
+* Cyclic
+* Ender Storage
+* Ender Utilities
+* Enderman Evolution
+* Environmental Tech
+* ET Lunar
+* Ex Compressum
+* ExtraCells2
+* Extreme Reactors
+* FastWorkbench
+* Flux Networks
+* Forestry
+* Immersive Craft
+* IC2
+* Industrial Foregoing
+* Intergration Foregoing
+* JEI
+* Level Up! Reloaded
+* LibVulpes
+* ME Capability Adapter
+* MeeCreeps
+* Mob Spawner Control
+* Mystical Agriculture
+* Nether Utils
+* Ore Excavation
+* Plustic
+* PrimalCore
+* Random Things
+* Redstone Arsenal
+* Redstone Flux
+* Refined Relocation 2
+* RFTools
+* RFTools Control
+* Scaling Health
+* Simply Jetpacks 2
+* Sonar Core
+* Soot
+* Steve's Carts Reborn 
+* Thaumcraft 6
+* Thermal Cultivation
+* Thermal Dynamics
+* Thermal Expansion
+* Thermal Foundation
+* Tinkers Construct
+* Tinkers' Tool Leveling
+* Toast Control
+* Tiny Progression
+* Wireless Crafting Terminal
+
+Config
+* ValkyrieLib
+    - Removed spawn book
+
+
+
+
+-------------------------------------------------------
+Version 1.0.3.14-B3
+
+Quests
+-fixed tinker tables again :(
+-redone thermal quest line
+    - all machines now retrieval tasks
+-added loot chests to quests that had non
+
+
+
+Mods Updated
+* Forge-14.23.3.2698
+* Actually Additions
+* Advanced Rocketry
+* AromaBackup
+* Better Questing
+* Better Questing - Standard Expansion
+* Better With Mobs
+* Biomes O' Plenty
+* Chisel & Bits
+* Corail Tombstone
+* Cyclic
+* Dark Utilities
+* Environmental Tech
+* ET Lunar
+* ExtraCells2
+* Farming For Blockheads
+* FastWorkbench
+* Flux Networks
+* Forestry 
+* Immersive Tech
+* IC2
+* Industrial Foregoing
+* Iron Backpacks
+* JEI
+* Level Up! Reloaded
+* Mystical Agriculture
+* Overloaded
+* Pam's HarvestCraft
+* Plustic
+* PrimalCore
+* ReAuth
+* Refined Location
+* Resource Loader
+* Scaling Health
+* Soot
+* Steve's Carts Reborn
+* Thaumcraft 
+* The Twilight Forest
+* Tinkers Construct
+* Tiny Progression
+* Toast Control
+* Torch Master
+* Weapon Levels
+* Zombie Awareness
+
+
+Config changes
+
+
+
+
+-------------------------------------------------------
+Version 1.0.3.13-B3
+
+Disabled Enhanced Visuals for the time being
+would like some feed back from users if this makes the game better
+
+Quests
+Makes sure you update your quests with 
+/bq_admin default load
+fixed few NBT data
+fixed Tinkers tables
+
+
+Mod Added
+Thaumcraft 6 (Will not be adding quests for this mod)
+
+
+Mods Updated
+* Forge-14.23.3.2679
+* Advanced Rocketry
+* Aroma1997Core
+* Astral Sorcery
+* Better Questing
+* Better With Mods
+* Biomes O' Plenty
+* Botania
+* Compact Machines
+* Corail Tombstone
+* Draconic Evolution
+* Ex Nihilo: Creatio
+* ExtraCells 2
+* Flux Networks
+* Foamfix
+* Forestry
+* Immersive Engineering
+* IC2
+* Industrial Foregoing
+* Iron Backpacks
+* JEI
+* LibVulpes
+* MultiStorage
+* PrimalCore
+* QuantumStorage
+* Redstone Arsenal
+* Simply Jetpacks 2
+* Soot
+* Terraqueos
+* The Twilight Forest
+* Thermal Cultivation
+* Thermal Dynamics
+* Thermal Expansion
+* Thermal Foundation
+* Tinkers Construct
+* Toast Control
+* TOP Addons
+* TorchMaster
+* Waystones
+
+* Few Lib Mods
+
+Recipe changes
+-Vanilla chest to require pin an planks
+
+
+Config changes
+
+* Better With Mods
+  - Nether Mobs can spawn on any block
+  - Slimes can spawn any where
+  - Witches will spawn outside of swamps
+  - Spiders will spawn outside of jungles
+  - Cobblestone smelts a bit faster in vanilla furnace
+  - Burn time changed for vanilla items planks an coal
+
+* Thaumcraft
+  - Shield wait now 5000 from 4000
+  - Shield cost now 2 from 1
+  - Dial now bottom left
+  - Taint spread rate now 80 was 100
+
+Note: Skillable mod will be removed next version an Reskillable mod
+      will take its place 
+
+
+
+-------------------------------------------------------
+Version 1.0.3.12-B3
+
+Run quest commands 
+/bq_admin default load
+/bqs_loot default load
+or us the quest book to update everything
+
+Mods Updated
+
+* AbyssalCraft
+* Actually Additions
+* Advanced Rocketry
+* AromaBackup
+* Better Questing
+* Better With Mods
+* Better With Engineering
+* Biomes O' Plenty
+* Bonsai Trees
+* Compact Machines 3
+* Corail Tombstone
+* Cyclic
+* Extra Utilities
+* Farming For Blockheads
+* Flux Networks
+* Forestry
+* Immersive Tech
+* IC2
+* Industrial Foregoing
+* JEI
+* LibVulpes
+* Mob Grinding Utils
+* Mob Spawner Control
+* Natura
+* Nether Utils
+* Overloaded
+* PlusTic
+* PrimalCore
+* Random Things
+* Reliquary
+* Redstone Arsenal
+* RFTools
+* Scaling Health
+* Stats Keeper
+* The One Probe
+* Thermal Dynamics
+* Thermal Expansion
+* Thermal Foundation
+* Tiny Progression
+* Weapon Levels (Levels 2 changed name)
+* Wireless Crafting Terminal 
+* Zombie Awareness
+
+* Few Lib Mods been updated
+
+
+Recipes
+
+* Removed Signalum tinkers recipe (issue fixed of tinkers alloys)
+
+
+-------------------------------------------------------
+Version 1.0.3.11-B3
+
+Quest Updates
+-Fix xp rewards 100% this time
+-Redstone Sequences quest changed the amount of items
+-Natures compass now group detect
+-Added Soul cage and ignore NBT of soul shard
+-Void resource miner quests now have loot
+-Removed Vanilla dragon mob hunt
+-Added Nano quests
+-Changed seed tiers
+-Awakened Core now retrieval
+-Removed Chaos dragon mob hunt
+-Changed piles of neutrons to ingots as reward
+-Added partial match to a lot of quests
+
+-Removed place holder in loot chests
+-Added loot where there was place holders
+-Changed the amount of loot in a lot of chests
+-Added more legendary rewards
+
+
+Mods Updated
+
+* Forge-14.23.2.2640
+
+* AbyssalCraft
+* Actually Additions
+* Advanced Rocketry
+* Applied Energistics
+* AromaBackup
+* Better Questing
+* Better Questing - Standard Expansion
+* Better With Mods
+* Better With Engineering
+* Biomes O' Plenty
+* BloodMoon
+* Ceramics
+* Chisel & Bits
+* Cooking For Blockheads
+* Corail Tombstone
+* Cyclic
+* Dark Utilities 
+* Ender Utilities
+* Environmental Tech
+* ET Lunar
+* Ex Compressum 
+* Extreme Reactors
+* FastWorkbench
+* Flux Networks
+* FoamFix
+* Forestry
+* Immersive Engineering
+* Immersive Tech
+* IC2
+* Industrial Foregoing
+* Level Up!
+* Levels 2
+* LibVulpes
+* Mob Grinding Ytils
+* Mob Spawner Control
+* MultiStorage
+* Mystical Agradditions
+* Mystical Agriculture
+* Nether Utils
+* OpenBlocks Elevator
+* Pam's HarvestCraft
+* PlusTiC
+* PrimalCore
+* QuantumStorage
+* Random Things
+* Reliquary
+* RFTools
+* RFTools Control
+* Scaling Health
+* Storage Drawers
+* Soul Shards: The Old Ways
+* Stats Keeper
+* StepupFixer
+* Steve's Carts Reborn
+* Sync
+* Terraqueous
+* The One Probe
+* Tinker I/O
+* Tinkers Complement
+* Toast Control
+* Tiny Progression
+* TOP Addons
+* Waystones
+* Wireless Crafting Terminal
+
+* Fair few lib mods have also been updated to newest version
+  Only mention main mod updates
+
+
+Recipes changes
+
+-Mechanical User now can use stable ingots
+-Ender Tether can now use stable ingots
+-Removed added recipe to unstable ingots
+-Dough (AA)
+-Added casting for signalium (tinkers) 288mb ingot
+-Creative Vending (You all said to easy)
+-Creative flux capacitor should now have power on craft
+
+
+Config Changes
+
+* Cyclic
+  -Disabled Corrupted Chorus Fruit
+
+* Environmental tech
+  -Increased Ore Miner power usage per tier
+  -Increased power use for each buff that Nano Beacon uses
+
+* Primitive Mobs
+  -Disabled Brain Slime (Breaks any armor)
+
+* Tiny Progression
+  -Refreshed config
+  -Disabled emerald tools
+  -Disabled emerald armor
+  -Disabled waterstone turning to water
+  -Disabled Compressed Netherrack block
+  -Kappa pickaxe durability now 300 
+  -Wub Juice will not hurt mobs
+  -Wub Juice debuffs are off
+  -Increased Wub juice heal time
+  -Disabled Wub juice Tools & Weapons
+
+* Skillable
+  -Added some skills to items/blocks
+  -Chnaged some skill levels on items/blocks
+
+
+-------------------------------------------------------
+Version 1.0.3.10-B3
+
+Quest Updates
+-Fix edit mode on quests
+-Fix xp rewards
+-Added Loot to quest #91
+
+Mods Updated
+
+* Advanced Rocketry
+* Biomes O' Plenty
+* Cyclic
+* Flux Networks
+* Immersive Engineering
+* IC2
+* Level Up!
+* PrimalCore
+* Reliquary
+* Storage Drawers
+* Toast Control
+* Yoyos
+
+
+Config Changes
+
+* Extreme Reactor
+  -Changed basic reactor power gen amount
+
+* Mystical Agriculture
+  -Changed Starmetal tier
+  -Changed fluix tier
+
+* Yoyos
+  -Changed some more attack power on tinkers parts
+
+
+
+-------------------------------------------------------
+Version 1.0.3.9-B3
+
+Quest Updates
+-Fixed unbreakable wand quest
+-Fixed lend portal quest 
+-changed 64k cell to 64k fluid storage
+-changed amount of seeds to craft for mystical agriculture
+
+
+Mod Added
+
+* FastWorkbench
+
+
+Mods Updated
+
+* Forge-14.23.2.2623
+* Foamfix-0.9.4
+
+Enabled InventoryTweaks again
+* /Dank/Null
+* Advanced Rocketry
+* AromaCore
+* AromaBackup
+* Biomes O' Plenty
+* Bonsai Trees
+* Chisel
+* Chisel an Bits
+* Corail Tombstone
+* Cyclic
+* Dark Utilities
+* Draconic Evolution
+* Enderman Evolution
+* Forestry
+* Immersive Craft
+* Immersive Engineering
+* Immersive Tech
+* IC2
+* Industrial Forgoing
+* JEI
+* Level 2
+* MultiStorage
+* Nether Utils
+* Pam's HarvestCraft
+* Primitive Mobs
+* Quantum Storage
+* Random Things
+* Refined Location
+* RFTools
+* Scaling Health
+* Soul Shards: The Old Ways
+* Terraqueous
+* Yoyos
+
+
+Recipes changes
+
+-Show drum recipes (EU2)
+-Show watering cans (TE)
+-Added enchants to Arcane Ensorcellator (TE)
+-Removed bronze crafting (TE)
+-Removed toast (AA)
+-Removed toast o' chocolate (AA)
+-Removed bronze ingot an block (Forestry)
+-Alloy constantan removed (Tinkers)
+-Recipe fluxed electrum gear in favour for machine crafting (Thermal)
+
+
+Config Changes
+
+* Angel Wing To Bauble
+  -Disabled extra
+
+* NetherEx
+  -Added ores that Nethermite can spawn from
+  -changed creeper spawn spore chance
+
+* Yoyos
+  -Changed tinkers damage
+
+* Quantum Storage 
+  -Disabled trash cans
+
+
+
+-------------------------------------------------------
+Version 1.0.3.8-B3
+
+Quests
+Reload your quests an loot on update
+updated a few quests
+removed some loot 
+added some loot
+
+
+Mods Added
+
+* Enderman Evolution
+* Level 2
+* Mob Spawner Control
+* Yoyos
+
+
+Mods Updated
+
+* /dank/null
+* AbyssalCraft
+* Actually Additions
+* Advanced Rocketry
+* Applied Energistics
+* Biomes O' Plenty
+* Compact Machines
+* Chisel
+* Corails Tombstone
+* Cyclic
+* Draconic Evolution
+* Extra Utilities 2
+* Ex Compressum
+* Forestry
+* IC2
+* Industrial Foregoing
+* Integration Foregoing
+* Just Enough Items (JEI)
+* Mystical Agriculture
+* Nether Utils
+* Pam's HarvestCraft
+* PrimalCore
+* Reliquary
+* RFTools
+* Scaling Health
+* Steves Carts
+* The Twilight Forest
+* Tinkers Construct
+* Toast Control
+* Wireless Crafting terminal
+
+
+Recipe Changes
+
+-Compressed gravel to gravel (ex compressum)
+-Upgrades (Iron backpacks)
+-Kyronite block (Environmental tech)
+-Nether amethyst crystals (NetherEx)
+-Reservoir Creative (Thermal)
+-Drum Creative (EU2)
+-Creative vending (SD)
+-EFLN (tinkers)
+
+Config Changes
+
+* Compact Machines
+  - Water no longer places
+
+* /Dank/Null
+  - Added items to blacklist
+
+* PrimalCore
+  - Refreshed config
+  - Changed some food values
+  - Changed fibre drops for over world grass
+  - Disabled auto plant
+  - Lowered void grass
+  - lowered Cineris grass seed
+  - lowered stones chance of spawning
+
+* Infernal Mobs
+  - Disabled Ninja
+
+* Level 2
+  - Upped experience for first tool level
+  - Upped archaic Damage by 1.0
+
+* Level Up
+  - Upped xp costs
+
+* Mob Spawn Control
+  - false when expired
+  - xp dropped 5 instead of 15
+
+* Extra Utils
+  - Disabled Ender Lilly (Enderman Evolutions adds one)
+
+* PlusTic
+  - Disabled Fusewood
+  - Disabled Ghostwood
+  - Disabled Darkwood
+
+* RandomThings
+  - Removed portal in fav of nether utils portal
+
+* Nether Utils
+  - increased bedrock timer
+  - Changed zone height
+
+* Skillable
+  - Added skills to items
+
+* Yoyos
+  - Changed damage amounts
+  - Changed length
+  - Changed duration
+
+
+
+-------------------------------------------------------
+Version 1.0.3.7-B3
+
+Mod Added
+
+* Compactor
+* JEI Bees
+
+
+Mod Updates
+
+* Forge Version 14.23.1.2611
+
+* Chisel & Bits
+* Cyclic
+* Forestry
+
+
+Recipes
+
+-Unstable Ingot (EU2)
+-charged draconic block (Draconic Evo)
+-Removed compressor blocks (EXcompressum)
+-end pedestal portal (Nether Utils)
+
+
+Config Changes
+
+* Ex Compressum
+ - made crucible fast again my bad
+
+* Tiny Progression
+ - Stick chance dropped
+ - Lowered particles again
+ - lowered juice to be same as pams juice
+
+* Skillable
+ - Added skills to pams seeds
+
+
+-------------------------------------------------------
+Version 1.0.3.6-B3
+
+Quests
+
+-Reload your quests an loot on update
+-fixed some typos
+-removed small windmill
+-fixed steel gearbox an axle
+-added wind chime
+-added avaratio quest line
+-renamed embers an astral quest line
+
+
+Mod Updates
+
+* Forge Version 14.23.1.2608
+
+* Actually Additions
+* Better With Engineering 
+* Corail Tombstone
+* Ender Utilities
+* Flux Networks
+* Foamfix
+* IC2
+* More Furnaces 
+* Pam's HarvestCraft
+* PlusTic
+* PrimalCore
+* Reliquary
+
+
+Recipe Changes
+
+-all the angel wings
+-emperor's chalice
+-Redone all gravel recipes to remove a dupe
+
+
+Config Changes
+
+* Chisel
+ - Changed thickness around lava pools (overworld)
+
+* Tombstone
+ - break a block or open a chest cancels ghost
+ - Teleport to dim false
+
+* Tiny Progression
+ - upped growth speed of tier 3 crystal
+ - growth particles lowered
+
+* PrimalCore
+ - Fluid Magma disabled
+
+* Primitive Mobs
+ - Reduced some spawns (overworld)
+
+* WayStones
+ - Xp cost increased
+ - Cooldown increased for waystones 
+ - Cooldown increased for warpstones
+
+* The One Probe
+ - See more info when sneak
+
+* Skillable
+ - Added skills to some more items
+ - Reduced some skills
+ - Disabled perfect recover dupes
+
+* Terraqueous
+ - Spread chance increased (takes longer)
+
+
+-------------------------------------------------------
+Version 1.0.3.5-B3
+
+Quests
+Added end portal
+added rewards for end portal
+Fixed few quests
+changed requirements for starting some quests
+
+
+Mod Added
+
+* Angel Ring To Bauble
+* Tip The Scales
+* PlusTic
+
+Mod Updates
+
+* Advanced Rocketry
+* Applied Energistics 2
+* ArchitectureCraft
+* Cycle
+* Extreme Reactors
+* IC2
+* Industrial Foregoing
+* NetherUtils
+* OpenBlocks Elevator
+* Ore Excavation
+* RFTools
+* Simply Jetpacks 2
+
+
+Config Changes
+
+* PlusTic
+ - Disabled support for mods not in the pack
+ - Disabled some materials
+
+* Primitive Mobs
+ - Turned down travelling merchant
+ - Turned down support creeper
+
+* NetherUtils
+ - Disabled vanilla End portal
+ - Changed end portal liquid fuel to Dawnstone liquid
+
+* Zombie Awareness
+ - Days till takes effect now 20
+ - Active zombies in loaded chunks 20
+
+
+-------------------------------------------------------
+Version 1.0.3.4-B3
+
+Mod Updates
+
+* Botania
+* Extra Utilities
+* IC2
+* PrimalCore
+* RFTools
+
+Recipe Changes
+
+Saddle now gets leather when broken down (BWM)
+ME Interface (Now consumes items) #blamelewdicolo
+Creative Vending upgrade (Storage Drawers)
+Creative Storage upgrade fixed misplaced item (Storage Drawers)
+
+Config changes
+
+* Chance cubes
+ - changed chance
+
+* Skillable
+ - Added some late game items
+ - Added Skills to Creative items
+
+* Simply Jetpacks
+ - Changed HUD position 
+
+
+
+-------------------------------------------------------
+Version 1.0.3.3.1-B3
+
+Fix to hatchet quest again
+
+mod updated
+
+* PrimalCore
+
+---------------------------------------------------------
+
+Version 1.0.3.3-B3
+
+Quests
+Use quests to reload
+Quests an loot updates
+-Added more loot
+-Added loot to some quests
+-Added some more rewards
+-Changed ignore NBT of hatchet quest
+
+Mod Updates
+
+* Advanced Rocketry
+* Aroma1997Core
+* AromaBackup
+* Astral Sorcery
+* Better With Engineering
+* Chest Transporter
+* Compact Machines
+* Corail Tomstone
+* Dark Utilities
+* Environmental Tech
+* ET Lunar
+* Foamfix
+* Forestry
+* IC2
+* Iron Backpacks
+* LibVulpes
+* Pams HarvestCraft
+* PrimalCore
+* RFTools
+* StepupFixer
+* Tinker I/O
+
+Mods Removed
+
+* Wolf Armour an storage (Crashes server not updating)
+
+
+Recipe changes
+
+* Large pulley (ArchitectureCraft)
+* Changed Tools (Natura)
+
+
+Config Changes
+
+* Better with Mods
+ - HCBucket false
+
+* Ex nihilo: Creatio
+ - Removed Obsidian barrel recipe
+
+* Enhanced Visuals
+ - Changed explosion visual an sound to be lower
+ - Changed heart beat blur an length
+ - Added 3 more death messages
+
+* Nether Utils
+ - Fuel consumption rate lowered
+
+* Open Glider
+ - Changed glider speeds
+
+* Infernal Mobs
+ - Removed ender
+ - Removed choke
+
+* Skillable
+ - Added some late game items
+ - Changed some items to be higher late game
+
+* Souls Shards
+ - Changed spawn cap to be 20 only in a 16 radius
+
+
+ Note changed last version to 1.0.3.2-B3 as
+ made a text error only corrected it here but 
+ will say 1.0.4 on curseforge an Twitch app
+
+-------------------------------------------------------
+Version 1.0.3.2-B3
+
+Mod Updates
+
+* Cyclic
+* Ex Nihilo: Creatio
+
+
+Config Changes
+
+* Better With Mods
+  - Enabled cheap tools
+
+* Ex Nihilo: Creatio
+  - Changed infest leaf speed
+
+* Primitive mobs
+  - Dropped jugg spawn down
+
+* Skillable
+  - Deleted some skills that break early game
+  - Added some late game items to skills
+  - Changed some skills to be lower early game
+
+-------------------------------------------------------
+Version 1.0.3.1-B3
+
+First public release
+Mod list:
+Better Questing (by Funwayguy)
+Bloodmoon (by lumien231)
+AutoRegLib (by Vazkii)
+AppleSkin (by squeek502)
+AppleCore (by squeek502)
+Biomes O' Plenty (by Glitchfiend)
+Blur (by tterrag1098)
+BetterFps (by Guichaguri)
+Baubles (by azanor)
+ArchitectureCraft - ElytraDev Version (by darkevilmac)
+Better Builder's Wands (by Portablejim)
+AromaBackup (by Aroma1997)
+Aroma1997Core (by Aroma1997)
+Better With Mods (by BeetoGuy)
+Actually Additions (by Ellpeck)
+Cucumber (by BlakeBr0)
+Ender Utilities (by masa_)
+Botania (by Vazkii)
+ConnectedTexturesMod (by tterrag1098)
+Farming for Blockheads (by BlayTheNinth)
+Diet Hoppers (by RWTema)
+Forestry (by SirSengir)
+Cooking for Blockheads (by BlayTheNinth)
+Embers (by elucent)
+Environmental Tech (by ValkyrieofNight)
+Cyclic (by Lothrazar)
+Edible Bugs (by eractnodi)
+CoFH Core (by TeamCoFH)
+Ex Nihilo: Creatio (by BloodWorkXGaming)
+Brandon's Core (by brandon3055)
+ET Lunar [Environmental Tech Addon] (by ValkyrieofNight)
+Draconic Evolution (by brandon3055)
+Chance Cubes (by turkey2349)
+Chisel (by tterrag1098)
+Dark Utilities (by darkh4x)
+Ding (by iChun)
+CodeChicken Lib 1.8.+ (by covers1624)
+Bookshelf (by darkh4x)
+Chameleon (by jaquadro)
+CoFH World (by TeamCoFH)
+CXLibrary (by CubeX2)
+Ceramics (by KnightMiner)
+Chest Transporter (by CubeX2)
+Custom Main Menu (by lumien231)
+CraftTweaker (by jaredlll08)
+Chisels & Bits (by AlgorithmX2)
+MTLib (by jaredlll08)
+Just Enough Resources (JER) (by Way2muchnoise)
+InGame Info XML (by Lunatrius)
+Mantle (by mDiyo)
+Mouse Tweaks (by YaLTeR97)
+McJtyLib (by McJty)
+Industrial Craft (by Player)
+Immersive Tech (by ferroo2000)
+MPUtils (by GenDeathrow)
+JourneyMap (by techbrew)
+Inventory Tweaks (by Kobata)
+InfiniteFluids (by josephcsible)
+ReAuth (by TechnicianLP)
+Ore Excavation (by Funwayguy)
+MPUtils Basic Tools (by GenDeathrow)
+Potion Icon Remover (by Kashdeya)
+More Furnaces (by CubeX2)
+Level Up! (by BeetoGuy)
+Immersive Craft (by McJty)
+Just Enough Items (JEI) (by mezz)
+Mystical Agriculture (by BlakeBr0)
+Gendustry (by bdew)
+Random Things (by lumien231)
+PrimalCore (by An_Sar)
+QuantumStorage (by Gigabit1011)
+Pam's HarvestCraft (by MatrexsVigil)
+Morph-o-Tool (by Vazkii)
+LunatriusCore (by Lunatrius)
+ModTweaker (by jaredlll08)
+Lockdown (by TheAdubbz)
+Thermal Dynamics (by TeamCoFH)
+Scaling Health (by SilentChaos512)
+Resource Loader (by lumien231)
+Steve's Carts Reborn (by modmuss50)
+Tinker I/O (by gkbm2011)
+Better Questing - Standard Expansion (by Funwayguy)
+Thermal Expansion (by TeamCoFH)
+Reborn Core (by modmuss50)
+Thermal Cultivation (by TeamCoFH)
+Thermal Foundation (by TeamCoFH)
+Tinkers' Tool Leveling (by bonusboni)
+Storage Drawers (by jaquadro)
+ShetiPhianCore (by ShetiPhian)
+Soul Shards: The Old Ways (by SgtPunishment)
+Redstone Arsenal (by TeamCoFH)
+The One Probe (by McJty)
+Skillable (by Vazkii)
+RFTools Control (by McJty)
+Tinkers' Addons (by oitsjustjose)
+Redstone Flux (by TeamCoFH)
+Terraqueous (by ShetiPhian)
+Refined Relocation 2 (by BlayTheNinth)
+Reliquary v1.3 (by P3pp3rF1y)
+Silent Lib (by SilentChaos512)
+RFTools (by McJty)
+TOP Addons (by DrManganese)
+TorchMaster (by xalcon)
+ValkyrieLib (by ValkyrieofNight)
+ZeroCore (by ZeroNoRyouki)
+Extreme Reactors (by ZeroNoRyouki)
+Natura (by mDiyo)
+Bonsai Trees (by Davenonymous)
+Immersive Engineering (by BluSunrize)
+TerraCore (by Terrails)
+Nether Utils (by Terrails)
+Chicken Chunks 1.8.+ (by covers1624)
+Ender Storage 1.8.+ (by covers1624)
+iChunUtil (by iChun)
+Sync (by iChun)
+Tiny Progressions (by Kashdeya)
+AbyssalCraft (by Shinoow)
+By The Gods (by Shinoow)
+AE2 Stuff (by bdew)
+Combustive Fishing (by theillusivec4)
+p455w0rd's Library (by TheRealp455w0rd)
+/dank/null (by TheRealp455w0rd)
+Applied Energistics 2 (by AlgorithmX2)
+JEI Integration (by SnowShock35)
+AbyssalCraft Integration (by Shinoow)
+StepupFixer (by Aroma1997)
+EnhancedVisuals (by CreativeMD)
+Wireless Crafting Terminal (by TheRealp455w0rd)
+CoroUtil (by Corosus)
+Astral Sorcery (by HellFirePvP)
+LootTableTweaker (by darkh4x)
+LibVulpes (by zmaster587)
+Advanced Rocketry (by zmaster587)
+Iron Backpacks (by gr8pefish)
+Compact Machines (by Davenonymous)
+Mystical Agradditions (by BlakeBr0)
+Wolf Armor and Storage (by CenturionFox)
+Mob Grinding Utils (by Vadis365)
+NetherEx (by LogicTechCorp)
+Tinkers Construct (by mDiyo)
+Ex Compressum (by BlayTheNinth)
+Custom Backgrounds (by lumien231)
+Thirsty Bottles (by darkh4x)
+Extra Utilities (by RWTema)
+Snad (by TheRoBrit)
+Waystones (by BlayTheNinth)
+AtomicStryker's Infernal Mobs (by AtomicStryker)
+Better With Engineering (by primetoxinz)
+MeeCreeps (by McJty)
+Overloaded (by cjm721)
+LootTweaker (by Daomephsta)
+ExtraCells2 (by Destroyer7128)
+Shadowfacts' Forgelin (by shadowfactsmc)
+Tesla Core Lib (by Face_of_Cat)
+Industrial Foregoing (by Buuz135)
+Integration Foregoing (by Jacky1356400)
+EluLib (by elucent)
+Blockcraftery (by elucent)
+ME Capability Adapter (by ruifung)
+MultiStorage (by ShetiPhian)
+Sonar Core (by Ollie_Lansdell)
+Flux Networks (by Ollie_Lansdell)
+The Twilight Forest (by Benimatic)
+Soot (by BordListian)
+NotEnoughIDs (by fewizz)
+Better Questing Triggerer (by MrAmericanMike)
+Tinkers' Complement (by KnightMiner)
+Primitive Mobs (by Daveyx0)
+Not Enough Items 1.8.+ (by covers1624)
+Twerk Sim 2K16 (by Funwayguy)
+Placebo (by Shadows_of_Fire)
+BdLib (by bdew)
+Toast Control (by Shadows_of_Fire)
+Zombie Awareness (by Corosus)
+Simply Jetpacks 2 (by Tomson124)
+Stats Keeper (by Terrails)
+Nature's Compass (by ChaosTheDude)
+Avaritia 1.1x (by brandon3055)
+Corail Tombstone (by Corail31)
+Super Sound Muffler (by Edgar_Allen)
+OpenBlocks Elevator (by VsnGamer)
+Open Glider (by gr8pefish)
+Mod Name Tooltip (by mezz)
+FoamFix (by asiekierka)
+
+-------------------------------------------------------

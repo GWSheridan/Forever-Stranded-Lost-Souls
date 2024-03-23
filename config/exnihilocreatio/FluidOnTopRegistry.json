@@ -1,0 +1,10 @@
+[
+  {
+    "fluidInBarrel": "water",
+    "fluidOnTop": "lava",
+    "result": {
+      "name": "minecraft:cobblestone",
+      "meta": 0
+    }
+  }
+]

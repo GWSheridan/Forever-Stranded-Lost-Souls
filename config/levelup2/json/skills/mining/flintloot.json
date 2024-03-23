@@ -1,0 +1,21 @@
+{
+  "levels": [
+    9,
+    14,
+    18,
+    20,
+    26,
+    30,
+    35,
+    39,
+    45,
+    50
+  ],
+  "prerequisites": [
+
+  ],
+  "column": 4,
+  "row": 0,
+  "enabled": true,
+  "active": true
+}

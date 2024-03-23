@@ -1,0 +1,21 @@
+{
+  "levels": [
+    6,
+    9,
+    12,
+    16,
+    19,
+    27,
+    30,
+    34,
+    39,
+    48
+  ],
+  "prerequisites": [
+    "levelup:cropgrowth"
+  ],
+  "column": 2,
+  "row": 1,
+  "enabled": true,
+  "active": true
+}

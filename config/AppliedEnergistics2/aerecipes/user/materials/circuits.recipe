@@ -1,0 +1,15 @@
+inscribe=
+    appliedenergistics2:material:11 ae2:material.logic_processor_press
+    -> ae2:material.logic_processor_print
+
+inscribe=
+    appliedenergistics2:material:10 ae2:material.calculation_processor_press
+    -> ae2:material.calculation_processor_print
+
+inscribe=
+    appliedenergistics2:material:12 ae2:material.engineering_processor_press
+    -> ae2:material.engineering_processor_print
+
+inscribe=
+    oredictionary:itemSilicon ae2:material.silicon_press
+    -> ae2:material.silicon_print

@@ -1,0 +1,71 @@
+import loottweaker.vanilla.loot.LootTables;
+import loottweaker.vanilla.loot.LootTable;
+import loottweaker.vanilla.loot.LootPool;
+
+//Value
+val nether_bridge = LootTables.getTable("minecraft:chests/nether_bridge");
+
+//Get main from the nether_bridge loot table and store it for later use
+val main = nether_bridge.getPool("main");
+
+//nether_bridge main
+main.addItemEntry(<minecraft:iron_ingot>, 10);
+main.addItemEntry(<minecraft:gold_ingot>, 10);
+main.addItemEntry(<minecraft:lava_bucket>, 1);
+main.addItemEntry(<minecraft:coal>, 10);
+main.addItemEntry(<minecraft:bone>, 10);
+main.addItemEntry(<minecraft:leather>, 10);
+main.addItemEntry(<minecraft:diamond_hoe>, 2);
+main.addItemEntry(<minecraft:diamond_pickaxe>, 2);
+main.addItemEntry(<minecraft:diamond_shovel>, 2);
+main.addItemEntry(<minecraft:diamond_axe>, 2);
+main.addItemEntry(<minecraft:diamond_sword>, 2);
+main.addItemEntry(<minecraft:spider_eye>, 3);
+main.addItemEntry(<thermalfoundation:material:128>, 5);
+main.addItemEntry(<thermalfoundation:material:129>, 5);
+main.addItemEntry(<thermalfoundation:material:130>, 5);
+main.addItemEntry(<thermalfoundation:material:131>, 5);
+main.addItemEntry(<thermalfoundation:material:132>, 5);
+main.addItemEntry(<thermalfoundation:material:133>, 5);
+main.addItemEntry(<botania:cosmetic>, 2);
+main.addItemEntry(<botania:cosmetic:1>, 2);
+main.addItemEntry(<botania:cosmetic:2>, 2);
+main.addItemEntry(<botania:cosmetic:3>, 2);
+main.addItemEntry(<botania:cosmetic:4>, 2);
+main.addItemEntry(<botania:cosmetic:5>, 2);
+main.addItemEntry(<botania:cosmetic:6>, 2);
+main.addItemEntry(<botania:cosmetic:7>, 2);
+main.addItemEntry(<botania:cosmetic:8>, 2);
+main.addItemEntry(<botania:cosmetic:9>, 2);
+main.addItemEntry(<botania:cosmetic:10>, 2);
+main.addItemEntry(<botania:cosmetic:11>, 2);
+main.addItemEntry(<botania:cosmetic:12>, 2);
+main.addItemEntry(<botania:cosmetic:13>, 2);
+main.addItemEntry(<botania:cosmetic:14>, 2);
+main.addItemEntry(<botania:cosmetic:15>, 2);
+main.addItemEntry(<botania:cosmetic:16>, 2);
+main.addItemEntry(<botania:cosmetic:17>, 2);
+main.addItemEntry(<botania:cosmetic:18>, 2);
+main.addItemEntry(<botania:cosmetic:19>, 2);
+main.addItemEntry(<botania:cosmetic:20>, 2);
+main.addItemEntry(<botania:cosmetic:21>, 2);
+main.addItemEntry(<botania:cosmetic:22>, 2);
+main.addItemEntry(<botania:cosmetic:23>, 2);
+main.addItemEntry(<botania:cosmetic:24>, 2);
+main.addItemEntry(<botania:cosmetic:25>, 2);
+main.addItemEntry(<botania:cosmetic:26>, 2);
+main.addItemEntry(<botania:cosmetic:27>, 2);
+main.addItemEntry(<botania:cosmetic:28>, 2);
+main.addItemEntry(<botania:cosmetic:29>, 2);
+main.addItemEntry(<botania:cosmetic:30>, 2);
+main.addItemEntry(<botania:cosmetic:31>, 2);
+main.addItemEntry(<chancecubes:chance_cube>, 8);
+main.addItemEntry(<chancecubes:chance_icosahedron>, 3);
+main.addItemEntry(<tp:bone_axe>, 4);
+main.addItemEntry(<tp:bone_sword>, 4);
+main.addItemEntry(<minecraft:stick>, 25);
+main.addItemEntry(<immersiveengineering:material>, 15);
+main.addItemEntry(<tconstruct:edible:4>, 7);
+main.addItemEntry(<tconstruct:edible:2>, 7);
+main.addItemEntry(<tconstruct:edible:1>, 7);
+main.addItemEntry(<minecraft:slime_ball>, 8);
